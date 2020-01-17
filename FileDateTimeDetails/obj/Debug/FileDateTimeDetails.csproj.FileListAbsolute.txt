@@ -1,0 +1,8 @@
+c:\users\rohit.dukre\documents\visual studio 2013\Projects\FileDateTimeDetails\FileDateTimeDetails\bin\Debug\FileDateTimeDetails.exe.config
+c:\users\rohit.dukre\documents\visual studio 2013\Projects\FileDateTimeDetails\FileDateTimeDetails\bin\Debug\FileDateTimeDetails.exe
+c:\users\rohit.dukre\documents\visual studio 2013\Projects\FileDateTimeDetails\FileDateTimeDetails\bin\Debug\FileDateTimeDetails.pdb
+c:\users\rohit.dukre\documents\visual studio 2013\Projects\FileDateTimeDetails\FileDateTimeDetails\obj\Debug\FileDateTimeDetails.FileDateTimeDetails.resources
+c:\users\rohit.dukre\documents\visual studio 2013\Projects\FileDateTimeDetails\FileDateTimeDetails\obj\Debug\FileDateTimeDetails.Properties.Resources.resources
+c:\users\rohit.dukre\documents\visual studio 2013\Projects\FileDateTimeDetails\FileDateTimeDetails\obj\Debug\FileDateTimeDetails.csproj.GenerateResource.Cache
+c:\users\rohit.dukre\documents\visual studio 2013\Projects\FileDateTimeDetails\FileDateTimeDetails\obj\Debug\FileDateTimeDetails.exe
+c:\users\rohit.dukre\documents\visual studio 2013\Projects\FileDateTimeDetails\FileDateTimeDetails\obj\Debug\FileDateTimeDetails.pdb

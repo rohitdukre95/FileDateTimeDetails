@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DateTimeDetails>
+  <Data>
+    <UNCPath>MUM-AT-W5-DE013</UNCPath>
+    <FolderName>Database Backup</FolderName>
+    <FileName>Export.xlsx</FileName>
+    <LastUpdatedDate>NULL</LastUpdatedDate>
+    <ErrorMessage></ErrorMessage>
+  </Data>
+  <Data>
+    <UNCPath>MUM-AT-W5-DE013</UNCPath>
+    <FolderName>Logs/RCM/PortalErrorLogs</FolderName>
+    <FileName>Log.txt</FileName>
+    <LastUpdatedDate>NULL</LastUpdatedDate>
+    <ErrorMessage></ErrorMessage>
+  </Data>
+  <Data>
+    <UNCPath>MUM-AT-W4-DE002</UNCPath>
+    <FolderName>Logs</FolderName>
+    <FileName>RegLibraryOutput_5570_2099811891_2019-11-12.xml</FileName>
+    <LastUpdatedDate>NULL</LastUpdatedDate>
+    <ErrorMessage></ErrorMessage>
+  </Data>
+  <Data>
+    <UNCPath>MUM-AT-W4-DE002</UNCPath>
+    <FolderName>Logs</FolderName>
+    <FileName>Rohit.docx</FileName>
+    <LastUpdatedDate>NULL</LastUpdatedDate>
+    <ErrorMessage></ErrorMessage>
+  </Data>
+  <Data>
+    <UNCPath>MUM-AT-W4-DE002</UNCPath>
+    <FolderName>Logs</FolderName>
+    <FileName>RegLibraryOutput_5563_1458981560_2019-11-12.xml</FileName>
+    <LastUpdatedDate>NULL</LastUpdatedDate>
+    <ErrorMessage></ErrorMessage>
+  </Data>
+
+</DateTimeDetails>
